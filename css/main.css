@@ -1,0 +1,38 @@
+/* Place CSS styles here */
+*{
+    margin: 0px;
+    margin-right: 0px;
+    padding: 0px;
+    }
+    
+
+html { 
+    background: url(https://r2.erweima.ai/imgcompressed/compressed_a28037493c9048f00b87d03a35d1f68a.webp) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+div {
+    width: 1500px;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #f3f5f000;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {font-family: "skolar-latin", serif; font-weight: 700; font-style: normal;font-size: 150px; margin-left: 70px; margin-top: 40px;color:rgb(238, 233, 224);-webkit-text-stroke: 5px black}
+h2 {font-family: "skolar-latin", serif; font-weight: 400; font-style: normal; margin-left: -320px; margin-right: 250px; margin-top: 200px;color:rgb(238, 233, 224)}
+h3 {font-family: "skolar-latin", serif; font-weight: 400; font-style: italic;margin-top: 240px; margin-right: 20px; margin-left:-50px; color:rgb(238, 233, 224)}
+h4 {font-family: "skolar-latin", serif; font-weight: 700; font-style: normal;letter-spacing: 0.2em; font-size: 30px;margin-top: 200px;margin-left: 100px; }
+h5 {font-family: "skolar-latin", serif; font-weight: 400; font-size: 15px;margin-left:140px ; margin-top: 30px;line-height: 2; color:rgb(238, 233, 224)}
+h6 {font-family: "skolar-latin", serif; font-weight: 400; font-size: 15px;margin-left:1025px ; margin-top: -30px;line-height: 2; color:rgba(238, 233, 224, 0.356)}
+
+
+
+
+
